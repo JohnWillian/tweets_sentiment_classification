@@ -53,3 +53,7 @@ We separate the 100,000 unlabeled datasets into 10 different batches. Each loop 
 ## Confusion Matrix
 
 Just print the confusion matrix for different models.
+
+>
+>
+>RNN Version link: https://colab.research.google.com/drive/11gTt2jECZSwcP5XFjUuL03p6vy3xAsBt?usp=sharing
